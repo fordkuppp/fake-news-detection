@@ -1,4 +1,4 @@
-# tweets-sentiment-analysis
+# fake-news-detection
 
 ## Dataset
-https://www.kaggle.com/datasets/kazanova/sentiment140
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
